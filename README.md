@@ -1,5 +1,15 @@
 # ⚡ VoltIQ — Global Electronics Retail Analytics
 
+## 📸 Dashboard Screenshots
+
+### Page 1 — Business Performance
+![Business Dashboard](screenshots/VoltIQ_Business_Dashboard.png)
+
+### Page 2 — Customer Insights
+![Customer Dashboard](screenshots/VoltIQ_Customer_Dashboard.png)
+
+
+
 ## 📌 Project Overview
 
 VoltIQ is an end-to-end business intelligence project analyzing a global electronics retailer operating across **8 countries**, **3 continents**, and **67 stores** worldwide. The goal was to uncover revenue drivers, profitability patterns, and customer behaviour using SQL-verified insights visualized in a 2-page interactive Power BI dashboard.
