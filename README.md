@@ -3,10 +3,10 @@
 ## 📸 Dashboard Screenshots
 
 ### Page 1 — Business Performance
-![Business Dashboard](screenshots/VoltIQ_Business_Dashboard.png)
+![Business Dashboard](VoltIQ_Business_Dashboard.png)
 
 ### Page 2 — Customer Insights
-![Customer Dashboard](screenshots/VoltIQ_Customer_Dashboard.png)
+![Customer Dashboard](Voltiq_customer_dashboard.png)
 
 
 
